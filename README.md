@@ -1,26 +1,19 @@
-# Alcool ou Gasolina (alcool_ou_gasolina)
+# Álcool ou Gasolina
 
-Projeto que calcula qual combustível é mais vantajoso $$$
+Projeto que calcula qual combustível é mais vantajoso R$
 
-## Install the dependencies
-```bash
-npm install
-```
+## Features
+<ul>
+  <li>Insere valores de combustível álcool e gasolina</li>
+  <li>Calcula qual combustível é mais vantajoso baseado no percentual de 70%</li>
+</ul>
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
+## Tecnologias
+<p>
+  <ul>
+    <li><a href="https://quasar.dev/">Quasar Framework (Vue)</a></li>
+  </ul>
+ </p>
 
-### Lint the files
-```bash
-npm run lint
-```
-
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.conf.js](https://v2.quasar.dev/quasar-cli/quasar-conf-js).
+## Autor
+Ryan Freitas
